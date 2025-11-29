@@ -142,7 +142,7 @@ const ravinder = {
 🛡️ Built-in failure recovery & retries  
 📊 Handles thousands of concurrent workflows
 
-[![View Code](https://img.shields.io/badge/View_Code-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravindersingh74123)
+[![View Code](https://img.shields.io/badge/View_Code-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravindersingh74123/Workflow-Automation)
 
 </td>
 <td width="50%" valign="top">
@@ -158,7 +158,7 @@ const ravinder = {
 📝 Problem templates with boilerplate  
 🎯 Real-time feedback mechanisms
 
-[![View Code](https://img.shields.io/badge/View_Code-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravindersingh74123)
+[![View Code](https://img.shields.io/badge/View_Code-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravindersingh74123/RemoteCodeExecution)
 
 </td>
 </tr>
@@ -175,9 +175,10 @@ const ravinder = {
 🔁 Intelligent retry logic  
 📋 End-to-end transaction logging  
 🛡️ Idempotent API routes  
-☁️ Cloud-deployed architecture
 
-[![View Code](https://img.shields.io/badge/View_Code-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravindersingh74123)
+[![View Code](https://img.shields.io/badge/View_Code-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravindersingh74123/PaySwift)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://payswift-04it.onrender.com/)
+
 
 </td>
 <td width="50%" valign="top">
@@ -193,7 +194,8 @@ const ravinder = {
 👥 Multi-participant support  
 🔐 Secure signaling server
 
-[![View Code](https://img.shields.io/badge/View_Code-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravindersingh74123)
+[![View Code](https://img.shields.io/badge/View_Code-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravindersingh74123/VideoCallApp)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://videocallapp-frontend-ckk3.onrender.com/)
 
 </td>
 </tr>
