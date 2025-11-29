@@ -9,8 +9,8 @@
 [![Email](https://img.shields.io/badge/📧_ravindersingh74123@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravindersingh74123@gmail.com)
 [![Phone](https://img.shields.io/badge/📱_+91_9729941863-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919729941863)
 [![GitHub](https://img.shields.io/badge/💻_ravindersingh74123-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ravindersingh74123)
-[![LeetCode](https://img.shields.io/badge/🧠_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
-[![LinkedIn](https://img.shields.io/badge/🔗_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![LeetCode](https://img.shields.io/badge/🧠_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/redcodein/)
+[![LinkedIn](https://img.shields.io/badge/🔗_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravinder-singh-571544247/)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
